@@ -1,0 +1,12 @@
+date,skill,what_i_did,result
+2025-08-14,Scoping,Rewrote the claims backlog request as a one-sentence question; cut scope from 9 charts to 3,"Delivered in 4 days, not the 3 weeks first estimated"
+2025-09-03,Stakeholders,Set up a fortnightly 20-minute check-in with Deb Laurent,Ad hoc requests from Claims fell from 6 to 2 a month
+2025-12-12,Influence,Showed that the retention offer went mostly to members who would have stayed anyway,Marketing narrowed the offer; projected saving $410k a year
+2025-11-12,Saying no,Retired a weekly report nobody opened (12 views in 6 months),Freed 3 hours a week
+2025-12-05,Delivery,Shipped the member churn dashboard two days early,Used in the December board pack
+2026-01-28,Team,Wrote the team's SQL style guide and ran two lunch sessions,Adopted by all 5 analysts
+2026-02-17,Influence,Persuaded Finance to change the definition of an active member,Removed a 4% gap between Finance and Analytics reports
+2026-03-09,Team,Mentored graduate analyst Jordan through her first deep dive,Jordan presented to the Claims leadership team
+2026-04-22,Scoping,Turned a vague 'why are complaints up' request into two testable questions,Found the cause (a billing letter) within a week
+2026-05-30,Delivery,Automated the monthly claims pack in Python,Cut 9 hours a month to 40 minutes
+2026-06-18,Stakeholders,Briefed the CFO before the pricing meeting so there were no surprises,Recommendation approved in the meeting
