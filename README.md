@@ -51,7 +51,7 @@ Tested with Python 3.13 and pandas 3.0.
 
 ## Get the book
 
-Paperback and Kindle editions are on Amazon. The PDF bundle with a printable cheat sheet is on Gumroad at [mathewkariuki.gumroad.com](https://mathewkariuki.gumroad.com).
+Paperback and Kindle editions are on Amazon.
 
 ## About
 
