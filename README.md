@@ -51,7 +51,8 @@ Tested with Python 3.13 and pandas 3.0.
 
 ## Get the book
 
-Paperback and Kindle editions are on Amazon.
+- **Paperback:** [Amazon.com](https://www.amazon.com/dp/B0HPZ4R23P) · [Amazon.com.au](https://www.amazon.com.au/dp/B0HPZ4R23P)
+- **Kindle:** [Amazon.com](https://www.amazon.com/dp/B0HPZ52MN7) · [Amazon.com.au](https://www.amazon.com.au/dp/B0HPZ52MN7)
 
 ## About
 
